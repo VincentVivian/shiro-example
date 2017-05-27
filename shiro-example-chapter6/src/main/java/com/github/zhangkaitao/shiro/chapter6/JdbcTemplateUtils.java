@@ -25,7 +25,7 @@ public class JdbcTemplateUtils {
         ds.setDriverClassName("com.mysql.jdbc.Driver");
         ds.setUrl("jdbc:mysql://localhost:3306/shiro");
         ds.setUsername("root");
-        ds.setPassword("");
+        ds.setPassword("123");
 
         return new JdbcTemplate(ds);
     }
