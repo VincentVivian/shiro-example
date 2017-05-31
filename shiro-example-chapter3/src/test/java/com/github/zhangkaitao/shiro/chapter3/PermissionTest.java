@@ -5,8 +5,6 @@ import org.apache.shiro.authz.UnauthorizedException;
 import org.apache.shiro.authz.permission.WildcardPermission;
 import org.junit.Test;
 
-import java.util.Arrays;
-
 /**
  * <p>User: Zhang Kaitao
  * <p>Date: 14-1-26
